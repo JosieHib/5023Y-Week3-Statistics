@@ -75,3 +75,4 @@ plot1 + plot2
 ### Wood density is an excellent predictor of timber hardness. 
 ### On average for every pound per cubic foot increase in the density of wood, we see a 57.5 point increase in the Janka “hardness scale”
 ###(F1,34= 637, P <0.001, R^2 = 0.94).
+### writing this to test a push to GitHub
